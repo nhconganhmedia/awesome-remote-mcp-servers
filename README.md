@@ -336,6 +336,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![mumo MCP connector](https://glama.ai/mcp/connectors/chat.mumo/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/chat.mumo/mcp)
   🔓 - A frontier panel for your agent: Ask Claude, GPT, Grok, and more. Get their independent responses *and* reactions to each other. See what they agree with, challenge, or want to explore further — in their own words. For architecture, plan/spec review, and strategy.
 - [MySpec](https://myspec.dev) `https://mcp.myspec.dev/mcp`
+  [![MySpec MCP connector](https://glama.ai/mcp/connectors/dev.myspec.mcp/my-spec/badges/score.svg)](https://glama.ai/mcp/connectors/dev.myspec.mcp/my-spec)
   🔐 🔑 - Interactive Spec-Driven Development (SDD) architect providing AI coding agents with 4-file spec bundles, architecture constraints, and roadmap task trees.
 - [OpenRouter](https://openrouter.ai) `https://mcp.openrouter.ai/mcp`
   [![OpenRouter MCP connector](https://glama.ai/mcp/connectors/ai.openrouter.mcp/open-router/badges/score.svg)](https://glama.ai/mcp/connectors/ai.openrouter.mcp/open-router)
